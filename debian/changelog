@@ -1,0 +1,30 @@
+webvfx-dmo (1.0.0-dmo2) unstable; urgency=medium
+
+  * Update included mlt to 6.12.0
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Mon, 26 Nov 2018 23:27:07 +0100
+
+webvfx-dmo (1.0.0-dmo1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Mon, 26 Nov 2018 11:49:12 +0100
+
+webvfx-dmo (0.4.4+20180224.gitd65a42d25a-dmo2) unstable; urgency=medium
+
+  * Update included mlt to 6.10.0
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Thu, 27 Sep 2018 17:48:19 +0200
+
+webvfx-dmo (0.4.4+20180224.gitd65a42d25a-dmo1) unstable; urgency=medium
+
+  * New git snapshot.
+  * Update included mlt to 6.6.0
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Sun, 04 Mar 2018 14:01:13 +0100
+
+webvfx-dmo (0.4.4~2016-08-23-dmo1) unstable; urgency=medium
+
+  * Initial release.
+
+ -- Christian Marillat <marillat@deb-multimedia.org>  Sat, 08 Apr 2017 17:38:40 +0200
