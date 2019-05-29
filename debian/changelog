@@ -1,3 +1,9 @@
+webvfx (1.0.0+git4-1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+
+ -- Zhong Jianxin <azuwis@gmail.com>  Wed, 29 May 2019 17:30:19 +0800
+
 webvfx-dmo (1.0.0-dmo2) unstable; urgency=medium
 
   * Update included mlt to 6.12.0
