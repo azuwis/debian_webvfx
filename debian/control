@@ -1,11 +1,11 @@
-Source: webvfx-dmo
+Source: webvfx
 Section: utils
 Priority: optional
 Maintainer: Christian Marillat <marillat@deb-multimedia.org>
 Bugs: mailto:marillat@deb-multimedia.org
 Homepage: https://www.mltframework.org/docs/webvfx/
 Standards-Version: 4.2.1
-Build-Depends: debhelper (>= 11), libmlt-dev, qt5-default, libqt5webkit5-dev,
+Build-Depends: debhelper (>= 11), libmlt-dev (>= 6.16.0), qt5-default, libqt5webkit5-dev,
  libqt5opengl5-dev, pkg-config
 
 Package: qmelt
